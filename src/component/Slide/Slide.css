@@ -1,0 +1,3 @@
+.slide{
+    transform: translateX(calc(var(--slide-id) * 100%));
+}
